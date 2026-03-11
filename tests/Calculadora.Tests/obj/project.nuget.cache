@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0rjty2AKprc=",
+  "dgSpecHash": "3z4TTNnP1Ik=",
   "success": true,
-  "projectFilePath": "C:\\Users\\antdg\\curso_git\\clase3\\Calculadora.Tests\\Calculadora.Tests.csproj",
+  "projectFilePath": "C:\\Users\\antdg\\curso_git\\clase3\\tests\\Calculadora.Tests\\Calculadora.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antdg\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\antdg\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
