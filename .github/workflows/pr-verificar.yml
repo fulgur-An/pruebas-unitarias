@@ -2,7 +2,7 @@ name: pull request verificacion
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ Master ]
 
 env:
   DOTNET_VERSION: '10.0.103'
